@@ -16,15 +16,12 @@ Flutter Grocery App
   <img src="screenshots/9.jpg" width="200" />
   <img src="screenshots/10.jpg" width="200" />
   <img src="screenshots/11.jpg" width="200" />
-  <img src="screenshots/12.jpg" width="200" />
-  <img src="screenshots/13.jpg" width="200" />
 </p>
 
 -------------  
 
 ## Screens  
-- Splash Screen  
-- Welcome Screen  
+ 
 - Home Screen(Shop)  
 - Product Details Screen  
 - Categories Screen (Explore)  
